@@ -1,0 +1,9 @@
+body{
+    background-color: greenyellow;
+}
+
+.item *{
+    border: solid;
+    border-color: black;
+    border-radius: 10%;
+}
